@@ -1,0 +1,42 @@
+{
+  "1": {
+    "frames": 145006,
+    "player_ids": 28,
+    "periods": [
+      1,
+      2
+    ],
+    "missing_player_coordinate_fraction": 0.21428423651435113,
+    "missing_ball_fraction": 0.3913975973407997
+  },
+  "2": {
+    "frames": 141156,
+    "player_ids": 26,
+    "periods": [
+      1,
+      2
+    ],
+    "missing_player_coordinate_fraction": 0.15384506394452838,
+    "missing_ball_fraction": 0.4100711269800788
+  },
+  "3": {
+    "frames": 143761,
+    "player_ids": 35,
+    "periods": [
+      1,
+      2
+    ],
+    "missing_player_coordinate_fraction": 0.37142857142857144,
+    "missing_ball_fraction": 0.3222362114899034
+  },
+  "1s_samples": {
+    "1": 127522,
+    "2": 124138,
+    "3": 126414
+  },
+  "2s_samples": {
+    "1": 127472,
+    "2": 124090,
+    "3": 126360
+  }
+}

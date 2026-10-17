@@ -1,0 +1,9 @@
+smoothing_s,feature,paired_trials,mean_absolute_change
+0.1,wrist_speed_mps,438,0.007969648833181395
+0.1,knee_min_deg,438,0.05164392692289141
+0.1,elbow_angle_deg,438,0.5494995445106776
+0.1,wrist_hip_height_m,438,0.004239461720969131
+0.25,wrist_speed_mps,438,0.036062919446253484
+0.25,knee_min_deg,438,0.2191137144206285
+0.25,elbow_angle_deg,438,2.3953761263078164
+0.25,wrist_hip_height_m,438,0.01518161844184625

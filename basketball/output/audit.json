@@ -1,0 +1,147 @@
+{
+  "source_trials": 583,
+  "eligible_trials": 563,
+  "excluded_trials": [
+    {
+      "session": "2025-12-18",
+      "participant": "P0001",
+      "trial": "T0003",
+      "reason": "Unrepaired marker gaps"
+    },
+    {
+      "session": "2025-12-18",
+      "participant": "P0001",
+      "trial": "T0024",
+      "reason": "Unrepaired marker gaps"
+    },
+    {
+      "session": "2025-12-18",
+      "participant": "P0001",
+      "trial": "T0032",
+      "reason": "Unrepaired marker gaps"
+    },
+    {
+      "session": "2025-12-18",
+      "participant": "P0001",
+      "trial": "T0045",
+      "reason": "Unrepaired marker gaps"
+    },
+    {
+      "session": "2025-12-18",
+      "participant": "P0001",
+      "trial": "T0048",
+      "reason": "Unrepaired marker gaps"
+    },
+    {
+      "session": "2025-12-18",
+      "participant": "P0001",
+      "trial": "T0072",
+      "reason": "Unrepaired marker gaps"
+    },
+    {
+      "session": "2025-12-18",
+      "participant": "P0002",
+      "trial": "T0009",
+      "reason": "Unrepaired marker gaps"
+    },
+    {
+      "session": "2025-12-18",
+      "participant": "P0002",
+      "trial": "T0013",
+      "reason": "Unrepaired marker gaps"
+    },
+    {
+      "session": "2025-12-18",
+      "participant": "P0002",
+      "trial": "T0015",
+      "reason": "Unrepaired marker gaps"
+    },
+    {
+      "session": "2025-12-18",
+      "participant": "P0002",
+      "trial": "T0031",
+      "reason": "Unrepaired marker gaps"
+    },
+    {
+      "session": "2025-12-18",
+      "participant": "P0002",
+      "trial": "T0071",
+      "reason": "Unrepaired marker gaps"
+    },
+    {
+      "session": "2025-12-18",
+      "participant": "P0003",
+      "trial": "T0006",
+      "reason": "Unrepaired marker gaps"
+    },
+    {
+      "session": "2025-12-18",
+      "participant": "P0003",
+      "trial": "T0019",
+      "reason": "Unrepaired marker gaps"
+    },
+    {
+      "session": "2025-12-18",
+      "participant": "P0003",
+      "trial": "T0069",
+      "reason": "Unrepaired marker gaps"
+    },
+    {
+      "session": "2025-12-18",
+      "participant": "P0003",
+      "trial": "T0088",
+      "reason": "Unrepaired marker gaps"
+    },
+    {
+      "session": "2025-12-18",
+      "participant": "P0004",
+      "trial": "T0018",
+      "reason": "Unrepaired marker gaps"
+    },
+    {
+      "session": "2025-12-18",
+      "participant": "P0004",
+      "trial": "T0021",
+      "reason": "Unrepaired marker gaps"
+    },
+    {
+      "session": "2025-12-18",
+      "participant": "P0005",
+      "trial": "T0005",
+      "reason": "Unrepaired marker gaps"
+    },
+    {
+      "session": "2025-12-18",
+      "participant": "P0005",
+      "trial": "T0019",
+      "reason": "Unrepaired marker gaps"
+    },
+    {
+      "session": "2025-12-18",
+      "participant": "P0005",
+      "trial": "T0020",
+      "reason": "Unrepaired marker gaps"
+    }
+  ],
+  "primary_trials": 438,
+  "unique_participants_all": 5,
+  "session_counts": {
+    "2024-08-28": 125,
+    "2025-12-18": 438
+  },
+  "source_outcome_labels": [
+    "made",
+    "missed"
+  ],
+  "units": "Input feet; analysis metres; time input milliseconds; analysis seconds; angles degrees",
+  "phase_anchor": "Peak upward velocity of smoothed bilateral mean wrist height, with elevated arms and complete -0.6 to +0.4 s window; proxy, not verified ball release",
+  "primary_design": "2025 five participants; 2024 P0001 is separate and cannot identify a session effect independent of measurement-system differences",
+  "input_bundle_sha256": {
+    "2025-12-18_P0004.npz": "73223fee550cfaf22cb23970f20cc8a45b0d7cfaecc6f3be476c31fd9c8fa76f",
+    "2025-12-18_P0005.npz": "8f0d84a2cd71d00ad885933cdfb59b55fa557c8d0c10623b1d86cc3cf2a800a4",
+    "2025-12-18_P0002.npz": "8afce3eeeb05771e107b4833278fa41998d08042da973bad1f0c575ed7e622f8",
+    "2024-08-28_P0001.npz": "2aaed71e9e05f5c934d2e735f0a602c756972d791fcb7860f4b9467ed455ed5f",
+    "2025-12-18_P0003.npz": "c2fc22f2d8ed3ca57bb926d93526c59177104c63157d2222792c42db7da037fa",
+    "2025-12-18_P0001.npz": "ac66df75abfb8aa4ded8dcb2048ab1eef0e8804e0d9ec08f5f474e06b3f60ce6"
+  }
+}

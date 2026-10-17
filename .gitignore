@@ -1,0 +1,5 @@
+__pycache__/
+.venv/
+soccer/data/metrica/
+soccer/data/metrica-source.zip
+soccer/output/test_predictions.csv.gz

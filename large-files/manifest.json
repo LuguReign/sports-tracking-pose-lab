@@ -1,0 +1,26 @@
+[
+  {
+    "path": "soccer/data/metrica-source.zip",
+    "sha256": "6979a71154f10e6dd2f344fa1c57e2c49cb572fb54a20911a7a52ece52bf1018",
+    "bytes": 66126309,
+    "parts": [
+      "large-files/metrica-source.zip.part00",
+      "large-files/metrica-source.zip.part01",
+      "large-files/metrica-source.zip.part02",
+      "large-files/metrica-source.zip.part03",
+      "large-files/metrica-source.zip.part04",
+      "large-files/metrica-source.zip.part05"
+    ]
+  },
+  {
+    "path": "soccer/output/test_predictions.csv.gz",
+    "sha256": "493d0736664cc8a99faaa6bf09c0acb31b86f1caef1e1441b060d757f7615561",
+    "bytes": 38559737,
+    "parts": [
+      "large-files/test_predictions.csv.gz.part00",
+      "large-files/test_predictions.csv.gz.part01",
+      "large-files/test_predictions.csv.gz.part02",
+      "large-files/test_predictions.csv.gz.part03"
+    ]
+  }
+]

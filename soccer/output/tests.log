@@ -1,0 +1,12 @@
+test_paired_eligibility_and_linear_prediction (test_data.BlackoutTests.test_paired_eligibility_and_linear_prediction) ... ok
+test_changing_channels_preserve_player_identity (test_data.EPTSParserTests.test_changing_channels_preserve_player_identity) ... ok
+test_future_cannot_change_features (test_data.FeatureTests.test_future_cannot_change_features) ... ok
+test_no_period_boundary_crossing (test_data.FeatureTests.test_no_period_boundary_crossing) ... ok
+test_player_dropout_excluded (test_data.FeatureTests.test_player_dropout_excluded) ... ok
+test_velocity_and_targets (test_data.FeatureTests.test_velocity_and_targets) ... ok
+test_split_and_metrics (test_results.ResultsTests.test_split_and_metrics) ... ok
+
+----------------------------------------------------------------------
+Ran 7 tests in 0.040s
+
+OK

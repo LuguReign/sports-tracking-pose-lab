@@ -1,0 +1,6 @@
+{
+  "source": "https://github.com/Sport-Performance-Lab/SPL-Open-Data",
+  "commit": "a3f9cffbde917b1e1747cedd6ec25dfab18c6051",
+  "transformation": "Selected 13 core body markers, ball coordinates, time stamps and trial metadata; float64, source units preserved; no imputation or downsampling. Other hand/face/foot markers omitted. Source JSON files hashed in index.json.",
+  "license": "CC BY-NC-SA 4.0 plus source usage terms; see SOURCE_LICENSE.txt"
+}

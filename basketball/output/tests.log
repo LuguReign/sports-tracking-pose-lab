@@ -1,0 +1,13 @@
+test_angle_geometry_and_translation (test_mechanics.MechanicsTests.test_angle_geometry_and_translation) ... ok
+test_degenerate_angle_is_missing (test_mechanics.MechanicsTests.test_degenerate_angle_is_missing) ... ok
+test_only_short_internal_gaps_are_repaired (test_mechanics.MechanicsTests.test_only_short_internal_gaps_are_repaired) ... ok
+test_outcome_variables_cannot_enter_feature_list (test_mechanics.MechanicsTests.test_outcome_variables_cannot_enter_feature_list) ... ok
+test_later_shots_held_out (test_results.ResultsTests.test_later_shots_held_out) ... ok
+test_models_and_intervals_are_valid (test_results.ResultsTests.test_models_and_intervals_are_valid) ... ok
+test_source_accounting_and_primary_session (test_results.ResultsTests.test_source_accounting_and_primary_session) ... ok
+test_whole_athlete_folds (test_results.ResultsTests.test_whole_athlete_folds) ... ok
+
+----------------------------------------------------------------------
+Ran 8 tests in 0.027s
+
+OK

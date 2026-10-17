@@ -1,0 +1,14 @@
+Eligible 563 primary 438 excluded 20
+           feature  between_variance  within_variance  conditional_icc  progress_coefficient  converged  participants  trials
+   wrist_speed_mps          0.699519         0.013660         0.980846              0.021065       True             5     438
+      knee_min_deg        284.848411        10.658988         0.963930              0.703143       True             5     438
+   elbow_angle_deg         80.881081        36.440923         0.689394              0.309361       True             5     438
+wrist_hip_height_m          0.022815         0.010448         0.685898              0.011465       True             5     438
+               design                 model   n    brier  log_loss      auc  accuracy
+  Chronological 70/30 Athlete training rate 134 0.206412  0.603519 0.705426  0.708955
+  Chronological 70/30           Pooled rate 134 0.230410  0.653522 0.500000  0.641791
+  Chronological 70/30         Pose logistic 134 0.203117  0.594447 0.728682  0.679104
+  Chronological 70/30    Pose random forest 134 0.213167  0.614325 0.695494  0.641791
+Leave one athlete out           Pooled rate 438 0.238150  0.671720 0.319549  0.657534
+Leave one athlete out         Pose logistic 438 0.229237  0.655067 0.584259  0.641553
+Leave one athlete out    Pose random forest 438 0.223719  0.639526 0.559502  0.657534

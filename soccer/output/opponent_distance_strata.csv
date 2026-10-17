@@ -1,0 +1,21 @@
+horizon_s,model,stratum,n,mean_error_m
+1,Stationary,Opponent within 3 m,24804,1.9252306412140825
+1,Stationary,Opponent beyond 3 m,101610,1.7950848553632792
+1,Constant velocity,Opponent within 3 m,24804,0.7234009648688716
+1,Constant velocity,Opponent beyond 3 m,101610,0.5292060726881122
+1,Ridge history,Opponent within 3 m,24804,0.585145473560289
+1,Ridge history,Opponent beyond 3 m,101610,0.42916799844234454
+1,Boosted trees history,Opponent within 3 m,24804,0.5265884268358685
+1,Boosted trees history,Opponent beyond 3 m,101610,0.3832787039539032
+1,Boosted trees interactions,Opponent within 3 m,24804,0.5157270839286758
+1,Boosted trees interactions,Opponent beyond 3 m,101610,0.37856412099946396
+2,Stationary,Opponent within 3 m,24795,3.6872168137460095
+2,Stationary,Opponent beyond 3 m,101565,3.4845739160680136
+2,Constant velocity,Opponent within 3 m,24795,2.2238425306238474
+2,Constant velocity,Opponent beyond 3 m,101565,1.701365888631224
+2,Ridge history,Opponent within 3 m,24795,1.817582237186471
+2,Ridge history,Opponent beyond 3 m,101565,1.4290899967791364
+2,Boosted trees history,Opponent within 3 m,24795,1.6784162259700506
+2,Boosted trees history,Opponent beyond 3 m,101565,1.3052608610481817
+2,Boosted trees interactions,Opponent within 3 m,24795,1.6253345351187198
+2,Boosted trees interactions,Opponent beyond 3 m,101565,1.282415024938971
