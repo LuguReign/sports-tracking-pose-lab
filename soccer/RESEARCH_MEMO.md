@@ -1,7 +1,5 @@
 # Soccer Movement Forecasting and Measurement Reliability
 
-Independent research pilot prepared for Nicholas Reign Lugu. Executed 17 October 2026.
-
 ## Research question
 Does spatial information about teammates, opponents, and the ball improve 1- and 2-second player-position forecasts beyond recent player movement? How does a temporary observation blackout affect extrapolation?
 
@@ -32,4 +30,4 @@ Only three sample matches are available and one is tested. Athlete identities ar
 Run `python run.py PATH_TO_METRICA_REPO`, `python -m unittest discover -s tests -v`, then `python build_report.py`. The archive contains source input files for offline reconstruction as described in README. `output/manifest.json` records input hashes and the pinned commit. `metrics.csv`, `test_predictions.csv.gz`, `opponent_distance_strata.csv`, and the data audit support the narrative. Attribution: Metrica Sports https://github.com/metrica-sports/sample-data and its README usage notice. Original code is MIT licensed; third-party data retain their source terms. No blanket open-data license is invented.
 
 ## AI assistance
-OpenAI Codex assisted with implementation, drafting, and checks. Numerical results come from executed code. No independent human review, faculty endorsement, or use of Claude Code is claimed.
+OpenAI Codex assisted with implementation, drafting, and checks.
