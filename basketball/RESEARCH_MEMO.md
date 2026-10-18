@@ -1,7 +1,5 @@
 # Basketball Shooting Mechanics and Movement Consistency
 
-Independent exploratory research pilot prepared for Nicholas Reign Lugu. Executed 17 October 2026.
-
 ## Research questions
 How much of the variation in selected shooting-motion measures is between athletes rather than between shots by the same athlete? Do pose-only features help retrospectively classify made and missed free throws beyond simple rate baselines?
 
@@ -34,6 +32,6 @@ Leave-one-athlete-out evaluation trains on four people and tests the fifth, repe
 These results do not identify optimal technique or show that changing a feature improves accuracy. Motion capture is a reference measurement with its own error. Source ball tracking can be noisy near capture boundaries; it is retained for provenance but excluded from modeling. The older session changes both date and pose system and contains one athlete; session effects cannot be cleanly separated. No inference about injury, professional selection, demographic fairness, or coaching efficacy is supported. Future work should use more athletes and sessions, expert-validated release labels, alternative phase definitions, temporal dependence models, nested validation, and prospective evaluation.
 
 ## Reproduction and license
-Run `python run.py`, `python -m unittest discover -s tests -v`, and `python build_report.py`. `prepare_data.py` reconstructs the compact inputs from the upstream repository. The bundled source provenance identifies the pinned commit. Original data: https://github.com/Sport-Performance-Lab/SPL-Open-Data. Attribution: Maple Leaf Sports & Entertainment Sport Performance Lab. Derived inputs and study materials are provided under CC BY-NC-SA 4.0 and the source's usage terms; see `data/SOURCE_LICENSE.txt`. Changes include marker selection, unit conversion in analysis, gap repair, smoothing, phase alignment, and derived features. No endorsement by MLSE, Dr. Schuckers, or a university is implied.
+Run `python run.py`, `python -m unittest discover -s tests -v`, and `python build_report.py`. `prepare_data.py` reconstructs the compact inputs from the upstream repository. The bundled source provenance identifies the pinned commit. Original data: https://github.com/Sport-Performance-Lab/SPL-Open-Data. Attribution: Maple Leaf Sports & Entertainment Sport Performance Lab. Derived inputs and study materials are provided under CC BY-NC-SA 4.0 and the source's usage terms; see `data/SOURCE_LICENSE.txt`. Changes include marker selection, unit conversion in analysis, gap repair, smoothing, phase alignment, and derived features. No endorsement by MLSE, or a university is implied.
 
-OpenAI Codex assisted implementation, drafting, and checks. Numerical results come from executed code; independent human peer review and Claude Code use are not claimed.
+OpenAI Codex assisted implementation, drafting, and checks.
